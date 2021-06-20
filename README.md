@@ -26,9 +26,13 @@ Users should be able to:
 
 ### Screenshot
 Web-View
+
+
 ![WebView](./images/3-column-card-web.png)
 
 Mobile-View
+
+
 ![MobileView](./images/3-column-mobile-card.png)
 ### Links
 
@@ -45,7 +49,7 @@ Mobile-View
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Shiwam Jaiswal](https://github.com/jshiwam)
 - Frontend Mentor - [@jshiwam](https://www.frontendmentor.io/profile/jshiwam)
 
 ## Acknowledgments
