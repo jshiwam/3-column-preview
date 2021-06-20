@@ -32,8 +32,8 @@ Mobile-View
 ![MobileView](./images/3-column-mobile-card.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/jshiwam/3-column-preview)
+- Live Site URL: [Github Pages](https://jshiwam.github.io/3-column-preview)
 
 ## My process
 
