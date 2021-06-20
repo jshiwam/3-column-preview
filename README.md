@@ -36,7 +36,7 @@ Mobile-View
 ![MobileView](./images/3-column-mobile-card.png)
 ### Links
 
-- Solution URL: [Github Repo](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3-columnpreviewcardcomponent-using-flexbox-ihZ01itP9)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3-columnpreviewcardcomponent-using-flexbox-ihZ01itP9)
 - Live Site URL: [Github Pages](https://jshiwam.github.io/3-column-preview/)
 
 ## My process
